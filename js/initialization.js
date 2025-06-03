@@ -662,10 +662,10 @@ function createAdminAccount() {
     if (!accounts) {
         accounts = [];
         accounts.push({
-            fullname: "Hoàng Gia Bảo",
-            phone: "hgbaodev",
+            fullname: "Trần Nguyên Triều",
+            phone: "trieu37",
             password: "123456",
-            address: 'https://github.com/hgbaodev',
+            address: 'https://github.com/trieu37',
             email: 'musicanime2501@gmail.com',
             status: 1,
             join: new Date(),
